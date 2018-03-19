@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/demozuulRetry.iml" filepath="$PROJECT_DIR$/demozuulRetry.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka/eureka.iml" filepath="$PROJECT_DIR$/eureka/eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/providerserver/providerserver.iml" filepath="$PROJECT_DIR$/providerserver/providerserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/serverribbon/serverribbon.iml" filepath="$PROJECT_DIR$/serverribbon/serverribbon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zuulgate/zuulgate.iml" filepath="$PROJECT_DIR$/zuulgate/zuulgate.iml" />
+    </modules>
+  </component>
+</project>
